@@ -1,0 +1,1 @@
+clean fid score is 196.63
